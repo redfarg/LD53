@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Package
+  - PickedUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Distractions
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 169501017
+    locked: 0
+  - name: Signs
+    uniqueID: 3860019659
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Popups
+    uniqueID: 1633256531
+    locked: 0
+  - name: Package
+    uniqueID: 327911561
+    locked: 0
